@@ -1,0 +1,306 @@
+[
+  {
+    "name": "HCG Suchirayu Hospital",
+    "location": "Deshpande Nagar, Hubli",
+    "city": "Hubli",
+    "area": "Deshpande Nagar",
+    "ownership": "Private",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 500,
+      "blood_test": 300,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "SeCURE Hospital",
+    "location": "Dollars Colony, Gokul Road, Near New Bus Stand, Hubli",
+    "city": "Hubli",
+    "area": "Dollars Colony",
+    "ownership": "Private",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 400,
+      "blood_test": 250,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Sushruta Hospital",
+    "location": "Heart of the city, Hubli",
+    "city": "Hubli",
+    "area": "Central Hubli",
+    "ownership": "Private",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 350,
+      "blood_test": 200,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Hubli Super Speciality Hospital (HSSH)",
+    "location": "Hubli",
+    "city": "Hubli",
+    "area": "Not specified",
+    "ownership": "Private",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 600,
+      "blood_test": 400,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Vihaan Heart & Super Speciality Hospital",
+    "location": "Hubli",
+    "city": "Hubli",
+    "area": "Not specified",
+    "ownership": "Private",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 700,
+      "blood_test": 350,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Karnataka Institute of Medical Sciences (KIMS)",
+    "location": "Pune – Bangalore National Highway near Vidyanagar, Hubli",
+    "city": "Hubli",
+    "area": "Vidyanagar",
+    "ownership": "Government",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 20,
+      "blood_test": 120,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Chitaguppi Hospital",
+    "location": "Lamington Road, Hubli",
+    "city": "Hubli",
+    "area": "Lamington Road",
+    "ownership": "Government",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 20,
+      "blood_test": 120,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+  "name": "Vivekananda General Hospital",
+  "location": "Deshpande Nagar, Hubli",
+  "city": "Hubli",
+  "area": "Deshpande Nagar",
+  "ownership": "Private",
+  "health_schemes": [
+    "Bajaj Allianz General Insurance Co",
+    "Cigna TTK Health Insurance Co",
+    "Cholamandalam MS",
+    "Dedicated Health Care Services",
+    "Magma HDI General Insurance Co",
+    "Medi Assist",
+    "Religare Health Insurance",
+    "Star Health & Allied Insurance Co",
+    "United Health Care Parekh",
+    "KLE Health Care Belgaum"
+  ],
+  "charges": {
+    "OPD": "Information not available",
+    "blood_test": "Information not available",
+    "operation": "Varies depending on procedure"
+  },
+  {
+    "name": "Dr. S.R. Ramanagoudar Multi Speciality Hospital & Research Institute Pvt. Ltd.",
+    "location": "Malapur Road, Dharwad",
+    "city": "Dharwad",
+    "area": "Malapur Road",
+    "ownership": "Private",
+    "health_schemes": [
+      "Star Health Network"
+    ],
+    "charges": {
+      "OPD": 500,
+      "blood_test": 300,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "M.M. Joshi Eye Institute Pvt. Ltd.",
+    "location": "Someshwar Heights, Near Old DSP Office, Dharwad",
+    "city": "Dharwad",
+    "area": "Someshwar Heights",
+    "ownership": "Private",
+    "health_schemes": [
+      "Star Health Network"
+    ],
+    "charges": {
+      "OPD": 600,
+      "blood_test": 350,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Narayana Hrudayalaya Ltd. - SDM, Narayana Heart Centre",
+    "location": "Manjushree Block, Manjushree Nagar, Sattur, Dharwad",
+    "city": "Dharwad",
+    "area": "Sattur",
+    "ownership": "Private",
+    "health_schemes": [
+      "Star Health Network"
+    ],
+    "charges": {
+      "OPD": 700,
+      "blood_test": 400,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Prashanth Nursing Home",
+    "location": "Station Road, Malmaddi, Dharwad",
+    "city": "Dharwad",
+    "area": "Malmaddi",
+    "ownership": "Private",
+    "health_schemes": [
+      "Star Health Network"
+    ],
+    "charges": {
+      "OPD": 400,
+      "blood_test": 250,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Sarvodaya Multispeciality Hospital IVF-Fertility and Research Center",
+    "location": "Near SDM Engineering College, Opp Police Training School, Giri Nagar, Dharwad",
+    "city": "Dharwad",
+    "area": "Giri Nagar",
+    "ownership": "Private",
+    "health_schemes": [
+      "Star Health Network"
+    ],
+    "charges": {
+      "OPD": 550,
+      "blood_test": 300,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Dr. Agarwals Eye Hospital",
+    "location": "Samarth Plaza, CTS No. 96B 1A, P B Road, Jubilee Circle, BRTS Bus Station, Dharwad",
+    "city": "Dharwad",
+    "area": "Jubilee Circle",
+    "ownership": "Private",
+    "health_schemes": [
+      "Star Health Network"
+    ],
+    "charges": {
+      "OPD": 650,
+      "blood_test": 350,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Vasan Eye Care Hospital",
+    "location": "Bikkanavar Complex, Near Jubilee Circle, Dharwad",
+    "city": "Dharwad",
+    "area": "Jubilee Circle",
+    "ownership": "Private",
+    "health_schemes": [
+      "Care Health Insurance Network"
+    ],
+    "charges": {
+      "OPD": 600,
+      "blood_test": 320,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "SDM College of Medical Sciences & Hospital",
+    "location": "Manjushree Nagar, Sattur, Dharwad",
+    "city": "Dharwad",
+    "area": "Sattur",
+    "ownership": "Private",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 500,
+      "blood_test": 300,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Civil Hospital",
+    "location": "Killa, Opposite To Karnataka High School, Dharwad",
+    "city": "Dharwad",
+    "area": "Killa",
+    "ownership": "Government",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 20,
+      "blood_test": 120,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "ESI Hospital Dharwad",
+    "location": "Near Hubli Toll Naka, Saraswathpura, Dharwad",
+    "city": "Dharwad",
+    "area": "Saraswathpura",
+    "ownership": "Government",
+    "health_schemes": [
+      "Employees' State Insurance Scheme"
+    ],
+    "charges": {
+      "OPD": 20,
+      "blood_test": 120,
+      "operation": "Varies depending on procedure"
+    }
+  },
+  {
+    "name": "Dharwad Institute of Mental Health and Neurosciences (DIMHANS)",
+    "location": "Dharwad",
+    "city": "Dharwad",
+    "area": "Not specified",
+    "ownership": "Government",
+    "health_schemes": [
+      "Arogya Karnataka",
+      "Ayushman Bharat"
+    ],
+    "charges": {
+      "OPD": 20,
+      "blood_test": 120,
+      "operation": "Varies depending on procedure"
+    }
+  }
+]
+
